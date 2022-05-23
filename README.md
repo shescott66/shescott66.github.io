@@ -39,3 +39,5 @@ I have over 14 years of technical writing experience, including 7 years of remot
 ## WRITING SAMPLES
 
 [Sample 1 - Madcap Flare](https://github.com/shescott66/shescott66.github.io/blob/95c3bd744f3f57a083e353b380438a387f581c23/Signal%20Start%20Node%20(MadCap%20Flare).pdf)
+
+[Sample 2 - 
