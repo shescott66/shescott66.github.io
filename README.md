@@ -16,25 +16,25 @@ I have over 14 years of technical writing experience, including 7 years of remot
 ## SKILLS
 
 ### Core Skills
-- Convey complex information in simple language, write clearly and concise
+- Convey complex information in simple language, write clearly and concise.
 
-- Grasp technical subject quickly - clear understanding and knowledge of the product
+- Grasp technical subject quickly - clear understanding and knowledge of the product.
 
-- Strong communication - interact with SMEs (Subject Matter Experts), identify and interview people who posssess knowledge important to documentation
+- Strong communication - interact with SMEs (Subject Matter Experts), identify and interview people who posssess knowledge important to documentation.
 
-- Teamwork - work well with teams, strong communication with programmers, developers, engineers and architechs
+- Teamwork - work well with teams, strong communication with programmers, developers, engineers and architechs.
 
-- Research and audience analysis - strong data analysis, present and capture data
+- Research and audience analysis - strong data analysis, present and capture data.
 
 ### Content
-Instruction Manuals - Process Guides - Technical Documents - Process Flows
+    Instruction Manuals - Process Guides - Technical Documents - Process Flows
 
-User Manuals - SOPs - Product Content
+    User Manuals - SOPs - Product Content
 
 ### Tools
-_Salesforce -_ _Confluence -_ _GitHub (markup) -_ _Visual Studio Code -_ _Atom_ 
+    Salesforce - Confluence - GitHub (markup) - Visual Studio Code - Atom 
 
-_Madcap Flare -_ _Jira -_ _Rally (Agile) -_ _Digital ai (Agile) -_ _Google Docs_
+    Madcap Flare - Jira - Rally (Agile) - Digital AI (Agile) - Google Docs
 
 ## WRITING SAMPLES
 
