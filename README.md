@@ -32,7 +32,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
     User Manuals - SOPs - Product Content
 
 ### Tools
-    Salesforce - Confluence - GitHub (markup) - Visual Studio Code - Atom 
+    Salesforce - Confluence - GitHub (Markup) - Visual Studio Code - Atom 
 
     Madcap Flare - Jira - Rally (Agile) - Digital AI (Agile) - Google Docs
 
