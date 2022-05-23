@@ -38,4 +38,4 @@ _Madcap Flare -_ _Jira -_ _Rally (Agile) -_ _Digital ai (Agile) -_ _Google Docs_
 
 ## WRITING SAMPLES
 
-[Sample 1 - Madcap Flare](https://github.com/shescott66/shescott66/blob/main/Documents/Signalstartnode_Madcapflare.md)
+[Sample 1 - Madcap Flare](https://github.com/shescott66/shescott66.github.io/blob/95c3bd744f3f57a083e353b380438a387f581c23/Signal%20Start%20Node%20(MadCap%20Flare).pdf)
