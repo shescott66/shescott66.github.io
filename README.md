@@ -36,6 +36,6 @@ _Salesforce -_ _Confluence -_ _GitHub (markup) -_ _Visual Studio Code -_ _Atom_
 
 _Madcap Flare -_ _Jira -_ _Rally (Agile) -_ _Digital ai (Agile) -_ _Google Docs_
 
-## DOCUMENTATION - Writing Examples
+## WRITING SAMPLES
 
 [Sample 1 - Madcap Flare](https://github.com/shescott66/shescott66/blob/main/Documents/Signalstartnode_Madcapflare.md)
