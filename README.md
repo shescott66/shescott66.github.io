@@ -1,3 +1,5 @@
+# Sherry Scott - Portfolio
+
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Linkedin_logo](https://user-images.githubusercontent.com/100245793/169851846-1b7afa95-7265-4e13-be39-8269d170dfbd.jpg) [Follow me on Linkedin](https://www.linkedin.com/in/sherry-scott-7b0113/)
