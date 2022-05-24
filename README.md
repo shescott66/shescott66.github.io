@@ -46,4 +46,4 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 [Sample 3 - Salesforce](https://github.com/shescott66/shescott66.github.io/blob/64b37420dbd31173f12d44e63d5094cc784d7bce/Resume%20Manager%20(Salesforce).pdf)
 
-Sample 4 - SOP]
+[Sample 4 - SOP](https://github.com/shescott66/shescott66.github.io/blob/566af04b78ce50d05f019b3d579f98d65526fb6f/OIT%20SOP%20(audit_governance).pdf)
