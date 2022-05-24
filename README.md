@@ -18,7 +18,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
 ## SKILLS
 
 ### Core Skills
-- Convey complex information in simple language - write clear and concise.
+- Convey complex information in simple language - write clear and concise documents.
 
 - Grasp technical subject quickly - clear understanding and knowledge of the product.
 
@@ -45,3 +45,5 @@ I have over 14 years of technical writing experience, including 7 years of remot
 [Sample 2 - Technical Document](https://github.com/shescott66/shescott66.github.io/blob/3a2f8a15c3e18d02f059afb4fe90c578172a7657/ASRI%20ODO%20Infrastructure%20Build%20NNI%20-%20Guide%20Compressed%20Version.pdf)
 
 [Sample 3 - Salesforce](https://github.com/shescott66/shescott66.github.io/blob/64b37420dbd31173f12d44e63d5094cc784d7bce/Resume%20Manager%20(Salesforce).pdf)
+
+Sample 4 - SOP]
