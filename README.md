@@ -9,7 +9,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 - Analyzing and creating technical content 
 
-- Designing information process flows
+- Authoring highly readable and useable documentation with a deep technical focus
 
 - Leading document migration projects
 
@@ -18,15 +18,15 @@ I have over 14 years of technical writing experience, including 7 years of remot
 ## SKILLS
 
 ### Core Skills
-- Convey complex information in simple language - write clear and concise documents.
+- Translates detailed complex documentation into simple, easy-to-understand presentations.
 
-- Grasp technical subject quickly - clear understanding and knowledge of the product.
+- Grasps technical subject quickly with clear understanding and knowledge of the product.
 
-- Strong communication - interact with SMEs (Subject Matter Experts), identify and interview people who possess knowledge important to documentation.
+- Interviews SMEs (Subject Matter Experts) and stakeholders, gaining knowledge about the product and the subject matter as well as any applications and features.
 
-- Teamwork - work well with teams, strong communication with programmers, developers, engineers and architects.
+- Works well with teams, strong communication with programmers, developers, engineers and architects.
 
-- Research and audience analysis - strong data analysis, present and capture data.
+- Research and analyze the purpose for documentation and identify intended audience. 
 
 ### Content
     Instruction Manuals - Process Guides - Technical Documents - Process Flows
