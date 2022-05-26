@@ -31,7 +31,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
 ### Content
     Instruction Manuals - Process Guides - Technical Documents - Process Flows
 
-    User Manuals - SOPs - Product Content
+    User Manuals - Standard Operating Procedures - Product Content
 
 ### Tools
     Salesforce - Confluence - GitHub (Markup) - Visual Studio Code - Atom - Servicenow
