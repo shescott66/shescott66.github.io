@@ -11,7 +11,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 - Authoring highly readable and useable documentation with a deep technical focus
 
-- Leading document migration projects
+- Leading documentation migration projects
 
 - Managing technical writing teams
 
