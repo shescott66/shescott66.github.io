@@ -48,7 +48,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 [Sample 4 - Standard Operating Procedure](https://github.com/shescott66/shescott66.github.io/blob/566af04b78ce50d05f019b3d579f98d65526fb6f/OIT%20SOP%20(audit_governance).pdf)
 
-[Sample 5 - Announcement/Advisory]
+[Sample 5 - Announcement Advisory]
 (https://github.com/shescott66/shescott66.github.io/blob/main/Announcement%20Training%20Advisory%20-%20New%20File%20Server%20v2.0.pdf)
 
 ## EXPERIENCE
