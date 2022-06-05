@@ -53,4 +53,4 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 ## EXPERIENCE
 
-[Resume](https://github.com/shescott66/shescott66.github.io/blob/main/Scott_Resume_Technical_Writer%202022.doc)
+[Resume](https://github.com/shescott66/shescott66.github.io/blob/e58319ba0661b886e6ea1bcac2b8eea71b654f9b/Scott_Resume_Technical_Writer%202022.pdf)
