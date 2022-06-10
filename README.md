@@ -57,4 +57,4 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 ## Letter of Recommendation
 
-[Recommendation](https://github.com/shescott66/shescott66.github.io/blob/b53d0537e8025da808261d70a539896573c6f292/Letter%20of%20Recommendation.pdf)
+[Recommendation]
