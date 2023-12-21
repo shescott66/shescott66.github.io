@@ -31,12 +31,12 @@ I have over 14 years of technical writing experience, including 7 years of remot
 ### Content
     Instruction Manuals - Process Guides - Technical Documents - Process Flows
 
-    User Manuals - Standard Operating Procedures - Product Content
+    User Manuals - Standard Operating Procedures - Product Content - Azure SharePoint Articles - Salesforce Articles
 
 ### Tools
-    Salesforce - Confluence - GitHub (Markup) - Visual Studio Code - Atom - Servicenow
+    Salesforce - Confluence - GitHub (Markup) - Visual Studio Code - Atom - ServiceNow - SharePoint
 
-    Madcap Flare - Jira - Rally (Agile) - Digital AI (Agile) - Google Docs - Smartsheet
+    Madcap Flare - Jira - Rally (Agile) - Digital AI (Agile) - Google Docs - Smartsheet - Microsoft Suite
 
 ## WRITING SAMPLES
 
