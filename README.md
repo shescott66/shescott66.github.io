@@ -40,9 +40,11 @@ I have over 15 years of technical writing experience, including 7 years of remot
 
 ## WRITING SAMPLES
 
-[Sample 1 - Process Workflow](https://github.com/shescott66/shescott66.github.io/blob/main/Retail%20Project%20IRF%20Process%20Workflow.pdf)
+[Sample 1 - Flat File](https://github.com/shescott66/shescott66.github.io/blob/main/Flat%20File%20How%20to%20v1.1.pdf)
 
-[Sample 2 - Madcap Flare](https://github.com/shescott66/shescott66.github.io/blob/95c3bd744f3f57a083e353b380438a387f581c23/Signal%20Start%20Node%20(MadCap%20Flare).pdf)
+[Sample 2 - Process Workflow](https://github.com/shescott66/shescott66.github.io/blob/main/Retail%20Project%20IRF%20Process%20Workflow.pdf)
+
+[Sample 3 - Madcap Flare](https://github.com/shescott66/shescott66.github.io/blob/95c3bd744f3f57a083e353b380438a387f581c23/Signal%20Start%20Node%20(MadCap%20Flare).pdf)
 
 [Sample 3 - Technical Document](https://github.com/shescott66/shescott66.github.io/blob/3a2f8a15c3e18d02f059afb4fe90c578172a7657/ASRI%20ODO%20Infrastructure%20Build%20NNI%20-%20Guide%20Compressed%20Version.pdf)
 
