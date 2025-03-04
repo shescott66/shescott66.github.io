@@ -5,11 +5,11 @@ Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 ![Linkedin_logo](https://user-images.githubusercontent.com/100245793/169851846-1b7afa95-7265-4e13-be39-8269d170dfbd.jpg) [Follow me on Linkedin](https://www.linkedin.com/in/sherry-scott-7b0113/)
 
 
-I have over 14 years of technical writing experience, including 7 years of remote work, in:
+I have over 15 years of technical writing experience, including 7 years of remote work, in:
 
 - Analyzing and creating technical content 
 
-- Authoring highly readable and useable documentation with a deep technical focus
+- Authoring highly readable and usable documentation with a deep technical focus
 
 - Leading documentation migration projects
 
@@ -24,14 +24,14 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 - Interviews SMEs (Subject Matter Experts) and stakeholders, gaining knowledge about the product and the subject matter as well as any applications and features.
 
-- Works well with teams, strong communication with programmers, developers, engineers and architects.
+- Works well with teams, strong communication with programmers, developers, engineers, and architects.
 
-- Research and analyze the purpose for documentation and identify intended audience. 
+- Research and analyze the purpose for documentation and identify the intended audience. 
 
 ### Content
     Instruction Manuals - Process Guides - Technical Documents - Process Flows
 
-    User Manuals - Standard Operating Procedures - Product Content - Azure SharePoint Articles - Salesforce Articles
+    User Manuals - Standard Operating Procedures - Product Content - Azure SharePoint Articles - Knowledge articles
 
 ### Tools
     Salesforce - Confluence - GitHub (Markup) - Visual Studio Code - Atom - ServiceNow - SharePoint
@@ -52,8 +52,6 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 
 ## EXPERIENCE
-
-[Resume](https://github.com/shescott66/shescott66.github.io/blob/main/Scott_Resume_Technical_Writer_2024.pdf)
 
 [Resume](https://github.com/shescott66/shescott66.github.io/blob/main/Sherry%20Scott%20Resume%20Technical%20Writer%202025.pdf)
 
