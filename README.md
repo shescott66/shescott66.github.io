@@ -7,32 +7,32 @@ Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 I have over 15 years of technical writing experience, including 7 years of remote work, in:
 
-- Comprehensive Documentation Development – Expertise in creating user manuals, online help, API documentation, and SOPs tailored for diverse audiences, from end users to 
-  developers. 
+- **Comprehensive Documentation Development** – Expertise in creating user manuals, online help, API documentation, and SOPs tailored for diverse audiences, from end users 
+  to developers. 
 
-- Remote Collaboration & Agile Workflows – Skilled in working with global teams using tools like Confluence, Jira, and Slack to deliver high-quality documentation in fast- 
-  paced, agile environments.
+- **Remote Collaboration & Agile Workflows** – Skilled in working with global teams using tools like Confluence, Jira, and Slack to deliver high-quality documentation in 
+  fast-paced, agile environments.
 
-- Technical Content Simplification – Ability to translate complex technical concepts into clear, concise, and user-friendly documentation for software, hardware, and IT 
+- **Technical Content Simplification** – Ability to translate complex technical concepts into clear, concise, and user-friendly documentation for software, hardware, and IT 
   systems.
 
-- Tools & Technologies Proficiency – Extensive experience with industry-standard tools such as MadCap Flare, Adobe FrameMaker, Oxygen XML, and Markdown, as well as CMS and 
-  version control systems like Git.
+- **Tools & Technologies Proficiency** – Extensive experience with industry-standard tools such as MadCap Flare, Adobe FrameMaker, Oxygen XML, and Markdown, as well as CMS 
+  and version control systems like Git.
 
 ## SKILLS
 
 ### Core Skills
-- Complex Information Simplification – Transforms detailed technical documentation into clear, engaging, and user-friendly content, making complex concepts accessible to 
+- **Complex Information Simplification** – Transforms detailed technical documentation into clear, engaging, and user-friendly content, making complex concepts accessible to 
   diverse audiences.
 
-- Rapid Technical Comprehension – Quickly understands technical subjects, products, and systems to create accurate and effective documentation that aligns with user needs.
+- **Rapid Technical Comprehension** – Quickly understands technical subjects, products, and systems to create accurate and effective documentation that aligns with the user 
+  needs.
 
-- Interviews SMEs (Subject Matter Experts) and stakeholders, gaining knowledge about the product, subject matter, and any applications and features.
+- **SME & Stakeholder Collaboration** – Conducts in-depth interviews with subject matter experts and stakeholders to gather critical insights and ensure documentation 
+  accuracy and completeness.
 
-- SME & Stakeholder Collaboration – Conducts in-depth interviews with subject matter experts and stakeholders to gather critical insights and ensure documentation accuracy 
-  and completeness.
-
-- Audience-Centered Documentation – Researches and analyzes documentation goals to tailor content for the intended audience, ensuring clarity, usability, and effectiveness. 
+- **Audience-Centered Documentation** – Researches and analyzes documentation goals to tailor content for the intended audience, ensuring clarity, usability, and 
+  effectiveness. 
 
 ### Content
     Instruction Manuals - Process Guides - Technical Documents - Process Flows
