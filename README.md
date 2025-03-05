@@ -22,15 +22,17 @@ I have over 15 years of technical writing experience, including 7 years of remot
 ## SKILLS
 
 ### Core Skills
-- Translates detailed complex documentation into simple, easy-to-understand presentations.
+- Complex Information Simplification – Transforms detailed technical documentation into clear, engaging, and user-friendly content, making complex concepts accessible to 
+  diverse audiences.
 
-- Grasps technical subject quickly with clear understanding and knowledge of the product.
+- Rapid Technical Comprehension – Quickly understands technical subjects, products, and systems to create accurate and effective documentation that aligns with user needs.
 
-- Interviews SMEs (Subject Matter Experts) and stakeholders, gaining knowledge about the product and the subject matter as well as any applications and features.
+- Interviews SMEs (Subject Matter Experts) and stakeholders, gaining knowledge about the product, subject matter, and any applications and features.
 
-- Works well with teams, strong communication with programmers, developers, engineers, and architects.
+- SME & Stakeholder Collaboration – Conducts in-depth interviews with subject matter experts and stakeholders to gather critical insights and ensure documentation accuracy 
+  and completeness.
 
-- Research and analyze the purpose for documentation and identify the intended audience. 
+- Audience-Centered Documentation – Researches and analyzes documentation goals to tailor content for the intended audience, ensuring clarity, usability, and effectiveness. 
 
 ### Content
     Instruction Manuals - Process Guides - Technical Documents - Process Flows
