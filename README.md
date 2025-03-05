@@ -7,13 +7,13 @@ Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 I have over 15 years of technical writing experience, including 7 years of remote work, in:
 
-- Analyzing and creating technical content 
+- Analyzing and creating technical content. 
 
-- Authoring highly readable and usable documentation with a deep technical focus
+- Authoring highly readable and usable documentation with a deep technical focus.
 
-- Leading documentation migration projects
+- Leading documentation migration projects.
 
-- Managing technical writing teams
+- Managing technical writing teams.
 
 ## SKILLS
 
