@@ -46,19 +46,21 @@ I have over 15 years of technical writing experience, including 7 years of remot
 
 ## WRITING SAMPLES
 
-[Sample 1 - Flat File](https://github.com/shescott66/shescott66.github.io/blob/main/Flat%20File%20How%20to%20v1.1.pdf)
+[Sample 1 - Reference Guide](https://github.com/shescott66/shescott66.github.io/blob/main/Scott_Resume_Technical_Writer_2025.pdf)
 
-[Sample 2 - Process Workflow](https://github.com/shescott66/shescott66.github.io/blob/main/Retail%20Project%20IRF%20Process%20Workflow.pdf)
+[Sample 2 - Reference Guide](https://github.com/shescott66/shescott66.github.io/blob/main/Flat%20File%20How%20to%20v1.1.pdf)
 
-[Sample 3 - Madcap Flare](https://github.com/shescott66/shescott66.github.io/blob/95c3bd744f3f57a083e353b380438a387f581c23/Signal%20Start%20Node%20(MadCap%20Flare).pdf)
+[Sample 3 - Process Workflow](https://github.com/shescott66/shescott66.github.io/blob/main/Retail%20Project%20IRF%20Process%20Workflow.pdf)
 
-[Sample 3 - Technical Document](https://github.com/shescott66/shescott66.github.io/blob/3a2f8a15c3e18d02f059afb4fe90c578172a7657/ASRI%20ODO%20Infrastructure%20Build%20NNI%20-%20Guide%20Compressed%20Version.pdf)
+[Sample 4 - Madcap Flare](https://github.com/shescott66/shescott66.github.io/blob/95c3bd744f3f57a083e353b380438a387f581c23/Signal%20Start%20Node%20(MadCap%20Flare).pdf)
 
-[Sample 4 - Salesforce](https://github.com/shescott66/shescott66.github.io/blob/64b37420dbd31173f12d44e63d5094cc784d7bce/Resume%20Manager%20(Salesforce).pdf)
+[Sample 5 - Technical Document](https://github.com/shescott66/shescott66.github.io/blob/3a2f8a15c3e18d02f059afb4fe90c578172a7657/ASRI%20ODO%20Infrastructure%20Build%20NNI%20-%20Guide%20Compressed%20Version.pdf)
 
-[Sample 5 - Standard Operating Procedure](https://github.com/shescott66/shescott66.github.io/blob/566af04b78ce50d05f019b3d579f98d65526fb6f/OIT%20SOP%20(audit_governance).pdf)
+[Sample 6 - Salesforce](https://github.com/shescott66/shescott66.github.io/blob/64b37420dbd31173f12d44e63d5094cc784d7bce/Resume%20Manager%20(Salesforce).pdf)
 
-[Sample 6 - Announcement Advisory](https://github.com/shescott66/shescott66.github.io/blob/d506982150a4c33126eee3c3acd5b47b53790368/Announcement%20Training%20Advisory%20-%20New%20File%20Server%20v2.0.pdf)
+[Sample 7 - Standard Operating Procedure](https://github.com/shescott66/shescott66.github.io/blob/566af04b78ce50d05f019b3d579f98d65526fb6f/OIT%20SOP%20(audit_governance).pdf)
+
+[Sample 8 - Announcement Advisory](https://github.com/shescott66/shescott66.github.io/blob/d506982150a4c33126eee3c3acd5b47b53790368/Announcement%20Training%20Advisory%20-%20New%20File%20Server%20v2.0.pdf)
 
 
 ## EXPERIENCE
