@@ -46,7 +46,7 @@ I have over 15 years of technical writing experience, including 7 years of remot
 
 ## WRITING SAMPLES
 
-[Sample 1 - Reference Guide](https://github.com/shescott66/shescott66.github.io/blob/main/Scott_Resume_Technical_Writer_2025.pdf)
+[Sample 1 - Reference Guide](https://github.com/shescott66/shescott66.github.io/blob/main/Plan%20Library%20%20-%20Portfolio%20Management%20-%20Product%20Management%20Indiv%20%26%20Fam%20Plans%20v1.1.pdf)
 
 [Sample 2 - Reference Guide](https://github.com/shescott66/shescott66.github.io/blob/main/Flat%20File%20How%20to%20v1.1.pdf)
 
