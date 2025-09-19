@@ -64,6 +64,8 @@ I have over 15 years of technical writing experience, including 7 years of remot
 
 [Sample 8 - Announcement Advisory](https://github.com/shescott66/shescott66.github.io/blob/d506982150a4c33126eee3c3acd5b47b53790368/Announcement%20Training%20Advisory%20-%20New%20File%20Server%20v2.0.pdf)
 
+[Sample 9 - API](https://github.com/shescott66/shescott66.github.io/blob/main/In-Gam%20Transactions%20Tooling%20Requirements.pdf)
+
 
 ## EXPERIENCE
 
