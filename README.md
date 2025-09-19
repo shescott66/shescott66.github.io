@@ -13,8 +13,10 @@ I have over 15 years of technical writing experience, including 7 years of remot
 - **Collaboration & Agile Workflows** – Skilled in working with global teams such as Engineers, Developers, Network & Cloud users, and Architects, using tools like Confluence, Jira, and Slack to deliver high-quality documentation in 
   fast-paced, agile environments.
 
-- **Technical Content Simplification** – Ability to translate complex technical concepts into clear, concise, and user-friendly documentation for software, hardware, and IT 
+- **Technical Content Simplification** – Translates complex technical concepts into clear, concise, and user-friendly documentation for software, hardware, and IT 
   systems.
+
+- **Documentation Migration** – Led large-scale documentation migrations from legacy systems, including transferring 1,400+ articles into Salesforce Knowledge and managing a SharePoint migration, ensuring accuracy, consistency, and improved accessibility.  
 
 - **Tools & Technologies Proficiency** – Extensive experience with industry-standard tools such as Confluence, MadCap Flare, Adobe FrameMaker, Oxygen XML, and Markdown, as well as CMS 
   and version control systems like Git.
